@@ -1,0 +1,2 @@
+rootProject.name='MovieArchitectureMvp'
+include ':app'
